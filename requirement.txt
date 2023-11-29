@@ -1,0 +1,4 @@
+spacy==3.7.2
+streamlit==3.5.0
+
+en-core-web-sm==3.5.0
